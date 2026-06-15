@@ -1,0 +1,34 @@
+## Idee: 
+Konzeption und Entwicklung eines humorvollen Mini-Jump-and-Rund zur 600km-in-96h-Cjllange von Arda Saatci, bei dem Arda durch verschiedene Etappen läuft, Energie sammelt, Hindernissen ausweicht und am Ende von seiner Mama und einem Eiswagen empfangen wird. 
+
+## Tools: 
+ChatGPT 
+Tripo 3D 
+Cursor oder Claude AI 
+Godot 
+
+## Setting: 
+Wüste, Straße, Stadt, (entweder nur eines davon oder alle drei, oder verschiedene Level) 
+
+## Spielerfigur:
+Arda Saatci mit klassischem grünen langarmshirt, RedBull-Hut, Laufschuhe, weiße hohe Socken 
+Kann ausweichen und eventuell springen. 
+Ansicht von oben.
+
+## Sammelobjekte: 
+Cornflakes, Gummibärchen - bringen Energie (man wird schneller)
+
+## Hindernisse: 
+Kakteen, Autos, Schlaglöcher, Sand (man wird langsamer und stirbt)
+
+## Ziel: 
+Arda erreicht die Ziellinie. Dort warten seine Mama und ein Eiswagen. 
+
+## Spielablauf: 
+Version 1: 600km-Challange Mode
+Ziel ist es die Strecke von 600km möglichst schnell zu erreichen. Es gibt ein Ziel.
+Am Ende wird angezeigt: 600km geschafft. Zeit: 91h 24min (in Sekunden berechnet), Ranking: Legendärer Sprint/ Lahme Ente / usw. (vllt gibt es 3 verschieden Schwierigkeitsstufen?) 
+Die Geschwindigkeit wird definiert durch das Energielevel. 
+
+Version 2: Endless Runner Mode
+Arda läuft so lange wie möglich. Es gibt kein festes Ziel. Das Spiel endet wenn man ein Hindernis trifft. Ziel ist so weit wie möglich zu kommen. Am Ende wird die Distanz angezeigt: Highscore: 421km 
