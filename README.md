@@ -8,4 +8,6 @@ Arda läuft durch die Wüste und Stadt, sammelt Energie durch Gummibärchen-Wür
 
 **Was ist neu: Hintergund (Strecke) fertig, Gummibärchen fertig, Spielfigur fertig, Planung Spielanzeige
 
+Strecken-Download: https://www.swisstransfer.com/d/9dff21d4-0bf4-42ea-b54c-ef147c466ae6
+
 **Next steps: Hindernisse erstellen und rendern, Muster auf Ardas Tshirt anpassen, alles zusammenfügen und Programmieren + Sounds raussuchen
