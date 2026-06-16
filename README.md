@@ -7,4 +7,5 @@ Arda läuft durch die Wüste und Stadt, sammelt Energie durch Gummibärchen-Wür
 **Autor: Theresa Antes 
 
 **Was ist neu: Hintergund (Strecke) fertig, Gummibärchen fertig, Spielfigur fertig, Planung Spielanzeige
+
 **Next steps: Hindernisse erstellen und rendern, Muster auf Ardas Tshirt anpassen, alles zusammenfügen und Programmieren + Sounds raussuchen
